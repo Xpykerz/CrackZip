@@ -8,11 +8,11 @@ Instaling CrackZip
 
 ```
 apt-get update && apt-get upgrade
-apt-get install python
+apt-get install python2
 apt-install git
 git Clone https://github.com/Xpykerz/CrackZip.git
 cd CrackZip
-python CrackZip.py
+python2 CrackZip.py
 ```
 ## Contributing
 
