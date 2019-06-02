@@ -7,11 +7,10 @@
 For using this tool first you need to install python . (if already installed skip this)
 
 ```
-#Installing Python
 apt-get install python
 ```
 
-Instaling  ### CrackZip
+Instaling CrackZip
 
 ```
 apt-get update && apt-get upgrade
