@@ -12,7 +12,7 @@ apt-get install python
 apt-install git
 git Clone https://github.com/Xpykerz/CrackZip.git
 cd CrackZip
-python CrackZip
+python CrackZip.py
 ```
 ## Contributing
 
