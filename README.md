@@ -4,16 +4,11 @@
 
 ## Installation
 
-For using this tool first you need to install python . (if already installed skip this)
-
-```
-apt-get install python
-```
-
 Instaling CrackZip
 
 ```
 apt-get update && apt-get upgrade
+apt-get install python
 apt-install git
 git Clone 
 cd CrackZip
