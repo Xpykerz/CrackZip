@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import zipfile
 
 print "   _____                _     _______       "
