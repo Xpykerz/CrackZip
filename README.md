@@ -28,6 +28,9 @@ cd CrackZip
 python2 CrackZip.py
 ```
 
+## Screenshot
+![image](https://github.com/Xpykerz/CrackZip/blob/master/Screenshot.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
