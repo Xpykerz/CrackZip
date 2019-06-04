@@ -1,6 +1,6 @@
 # CrackZip 
 
- CrackZip is a tools helps to crack the password of a Zip file via bruteforce .CrackZip is Developed by @Xpykerz for Pentesters. The scriPT is writen is python. This tool will works on both Linux,Windows and Android by using python.
+ CrackZip is a tools helps to crack the password of a Zip file via bruteforce .CrackZip is Developed by @Xpykerz for Pentesters. The script is writen is python. This tool will works on both Linux,Windows and Android by using python.
 
 ## Installation
 
