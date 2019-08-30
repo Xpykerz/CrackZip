@@ -11,7 +11,7 @@ In Linux
 ```
 apt-get update && apt-get upgrade
 apt-get install python
-apt-install git
+apt install git
 git Clone https://github.com/Xpykerz/CrackZip.git
 cd CrackZip
 chmod +x CrackZip.py
@@ -22,7 +22,7 @@ In Android
 ```
 apt-get update && apt-get upgrade
 apt-get install python2
-apt-install git
+apt install git
 git Clone https://github.com/Xpykerz/CrackZip.git
 cd CrackZip
 python2 CrackZip.py
