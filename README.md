@@ -1,29 +1,30 @@
-# CrackZip 
+# CrackZip
 
- CrackZip is a tools helps to crack the password of a Zip file via bruteforce .CrackZip is Developed by @Xpykerz for Pentesters. The script is writen is python. This tool will works on both Linux,Windows and Android by using python.
+CrackZip is a powerful tool designed to crack the password of a ZIP file using brute force techniques. Developed by @Xpykerz, this tool is tailored for penetration testers and cybersecurity enthusiasts. Written in Python, CrackZip is compatible with Linux, Windows, and Android platforms.
 
 ## Installation
 
-Instaling CrackZip
+### Installing CrackZip
 
-In Linux
+#### On Linux
 
 ```
-apt-get update && apt-get upgrade
-apt install python
-apt install git
-git Clone https://github.com/Xpykerz/CrackZip.git
+sudo apt-get update && sudo apt-get upgrade
+sudo apt install python
+sudo apt install git
+git clone https://github.com/Xpykerz/CrackZip.git
 cd CrackZip
 chmod +x CrackZip.py
 ./CrackZip.py
 ```
-In Android
+
+#### On Android
 
 ```
-apt-get update && apt-get upgrade
-apt install python2
-apt install git
-git Clone https://github.com/Xpykerz/CrackZip.git
+sudo apt-get update && sudo apt-get upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/Xpykerz/CrackZip.git
 cd CrackZip
 python2 CrackZip.py
 ```
@@ -33,8 +34,8 @@ python2 CrackZip.py
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+We welcome contributions to CrackZip! If you have ideas for improvements or new features, feel free to open a pull request. For significant changes, please start by opening an issue to discuss your proposal.
 
-Please make sure to update tests as appropriate.
+When contributing, ensure that your code adheres to the project's style guidelines and is well-documented. While tests are not required for this PR, please update or add tests for any new functionality in future contributions.
 
 # By @Xpykerz
